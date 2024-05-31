@@ -1,3 +1,8 @@
+/*
+ * Copyright © 2024 Qualcomm Innovation Center, Inc. All rights reserved.
+ * SPDX-License-Identifier: CC-BY-4.0
+ */
+
 package com.skyhook.locationquickstart;
 
 import android.Manifest;
